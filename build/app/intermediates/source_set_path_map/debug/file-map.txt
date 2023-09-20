@@ -1,0 +1,12 @@
+com.example.appmaina.app-jetified-window-1.0.0-beta04-0 /Users/r31/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.appmaina.app-jetified-annotation-experimental-1.1.0-1 /Users/r31/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.appmaina.app-core-1.6.0-2 /Users/r31/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.appmaina.app-jetified-window-java-1.0.0-beta04-3 /Users/r31/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.appmaina.app-debug-4 /Users/r31/AndroidStudioProjects/vrund_appmania/android/app/src/debug/res
+com.example.appmaina.app-main-5 /Users/r31/AndroidStudioProjects/vrund_appmania/android/app/src/main/res
+com.example.appmaina.app-pngs-6 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/generated/res/pngs/debug
+com.example.appmaina.app-resValues-7 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/generated/res/resValues/debug
+com.example.appmaina.app-rs-8 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/generated/res/rs/debug
+com.example.appmaina.app-mergeDebugResources-9 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.appmaina.app-mergeDebugResources-10 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.appmaina.app-merged_res-11 /Users/r31/AndroidStudioProjects/vrund_appmania/build/app/intermediates/merged_res/debug
